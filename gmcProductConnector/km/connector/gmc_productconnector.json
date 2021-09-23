@@ -35,17 +35,17 @@
   },
   "mappings": [
     {
-      "field": "yext/entityid",
+      "field": "entityId",
       "header": "Entity ID",
       "subfieldPath": []
     },
     {
-      "field": "yext/description",
+      "field": "richTextDescription",
       "header": "Description",
       "subfieldPath": []
     },
     {
-      "field": "yext/name",
+      "field": "name",
       "header": "Name",
       "subfieldPath": []
     }
